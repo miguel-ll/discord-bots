@@ -4,7 +4,7 @@ import datetime
 import os.path
 import re
 
-BOT_TOKEN = "OTU5Mjc0NjIyMTkxMjgwMTg4.YkZgHA.dU5L2ECfdyQM1pTM7vvzy2GCh20"
+BOT_TOKEN = ""
 
 intents = discord.Intents.all()
 client = commands.Bot(command_prefix="!", intents=intents)
